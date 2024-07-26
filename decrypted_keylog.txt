@@ -1,0 +1,6 @@
+ Key.cmd c Key.cmd v
+acc Key.cmd  Key.tab  Key.cmd  Key.tab okay done 
+ Key.cmd  Key.tab  Key.cmd  Key.tab  Key.cmd  Key.tab  Key.cmd c Key.cmd v means Key.shift_r ?
+ Key.cmd c Key.cmd  Key.tab  Key.cmd v
+ Key.cmd  Key.tab  Key.cmd  Key.tab  Key.cmd v Key.cmd  Key.tab  Key.cmd v
+ Key.esc 
